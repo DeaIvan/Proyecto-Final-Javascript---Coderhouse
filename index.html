@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Document</title>
+</head>
+<body class="body">
+    <header>
+        <nav>
+            <ul class="navbar">
+                <li class="nav-item">
+                  <a class="nav-link active" aria-current="page" href="#">Productos</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="contacto.html">Contacto</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link disabled">Proximamente</a>
+                </li>
+              </ul>
+        </nav>
+    </header>
+    <div class="container">
+        <div>
+            <main id="items"></main>
+            
+            <div class="align">
+                <aside>
+                    <h2>Tu Carrito</h2>
+                    <ul id="carrito" class="list-group"></ul>
+                    <hr>
+                    <p class="text-total">Total: <span id="total" class="total"></span>   AR$</p>
+                    <button id="boton-vaciar" class="btn-vaciar">Vaciar</button>
+                    <button class="comprar-carrito"><a href="prox.html"  >IR AL CARRITO</a></button>
+                </aside>
+            </div>
+
+        </div>
+    </div>
+    <script src="js/index.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.4.37/dist/sweetalert2.all.min.js"></script>
+</body>
+</html>
+
+

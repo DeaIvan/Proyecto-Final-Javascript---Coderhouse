@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "nombre": "Jamon",
+      "precio": 2000,
+      "imagen": "/img/jamon-cocido.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Pastron",
+      "precio": 2200,
+      "imagen": "/img/pastron.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Salame",
+      "precio": 2500,
+      "imagen": "/img/salame-baston.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Queso",
+      "precio": 1800,
+      "imagen": "/img/queso-fresco.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Panceta",
+      "precio": 2000,
+      "imagen": "/img/panceta.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Mozzarella",
+      "precio": 2200,
+      "imagen": "/img/mozzarella.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Longaniza",
+      "precio": 2500,
+      "imagen": "/img/longaniza.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Cantimpalo",
+      "precio": 1800,
+      "imagen": "/img/cantimpalo.jpg"
+    }
+  ]
